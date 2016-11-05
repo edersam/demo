@@ -1,2 +1,0 @@
-# demo
-proyecto demo - semillero
